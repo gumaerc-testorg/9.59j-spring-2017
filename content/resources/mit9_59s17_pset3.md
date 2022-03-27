@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 82a364e3-3673-96e7-f366-ede5ad09fbb3
 resourcetype: Document
 title: Pset 3
 uid: 1522b43a-998b-be25-ad31-e469f9ff0730

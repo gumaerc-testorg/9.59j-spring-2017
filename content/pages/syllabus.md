@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +17,7 @@ Lab: 1 session / week, 3 hours / session
 Prerequisites
 -------------
 
-[_9.00 Introduction to Psychology_](/courses/9-00sc-introduction-to-psychology-fall-2011/) or [_24.900 Introduction to Linguistics_](/courses/24-900-introduction-to-linguistics-fall-2012/); students will be expected to learn some R and Mechanical Turk.
+[_9.00 Introduction to Psychology_](/courses/9-00sc-introduction-to-psychology-fall-2011) or [_24.900 Introduction to Linguistics_](/courses/24-900-introduction-to-linguistics-fall-2012); students will be expected to learn some R and Mechanical Turk.
 
 Summary
 -------

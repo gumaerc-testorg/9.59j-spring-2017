@@ -5,6 +5,7 @@ file: /courses/9-59j-lab-in-psycholinguistics-spring-2017/1522b43a998bbe25ad31e4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Pset 3
 uid: 1522b43a-998b-be25-ad31-e469f9ff0730
 ---
 Third problem set for 9.59J/24.905J S17
-

@@ -5,6 +5,7 @@ file: /courses/9-59j-lab-in-psycholinguistics-spring-2017/7f436994c1a1ede4bc157d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 10
 uid: 7f436994-c1a1-ede4-bc15-7d6315360f13
 ---
 9.59J lecture S17
-

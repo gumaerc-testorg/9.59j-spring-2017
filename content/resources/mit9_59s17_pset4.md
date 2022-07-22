@@ -5,6 +5,7 @@ file: /courses/9-59j-lab-in-psycholinguistics-spring-2017/b1803dc52a8f8848f4aadc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Pset 4
 uid: b1803dc5-2a8f-8848-f4aa-dcdba3ab7179
 ---
 Fourth problem set for 9.59J/24.905J S17
-

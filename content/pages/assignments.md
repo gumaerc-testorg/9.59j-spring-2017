@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 82a364e3-3673-96e7-f366-ede5ad09fbb3
 ---
@@ -22,25 +26,25 @@ supplemental materials
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 1: Manipulating and Analyzing Data in R (PDF)]({{< baseurl >}}/resources/mit9_59s17_pset1)
+{{% resource_link d3a4c742-7628-3ce1-ecd0-59287a7e7271 "Problem Set 1: Manipulating and Analyzing Data in R (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Data for Problem Set 1: Manipulating and Analyzing Data in R (CSV)]({{< baseurl >}}/resources/pset_1_data)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem Set 2: Reading and Processing Turk Data (PDF)]({{< baseurl >}}/resources/mit9_59s17_pset2)
-{{< tdclose >}}
-{{< tdopen >}}
-[Data for Problem Set 2: Reading and Processing Turk Data (CSV)]({{< baseurl >}}/resources/pset2_data2)
+{{% resource_link 71f9d8ee-ae72-6770-d45e-2a724fe3eb05 "Data for Problem Set 1: Manipulating and Analyzing Data in R (CSV)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 3: Exploratory Data Analysis and Significance Testing (PDF)]({{< baseurl >}}/resources/mit9_59s17_pset3)
+{{% resource_link d441e42e-f37b-ec35-9c7a-cf2d2b5c07cf "Problem Set 2: Reading and Processing Turk Data (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 58332d3c-2714-ed22-bb98-8c37707f3485 "Data for Problem Set 2: Reading and Processing Turk Data (CSV)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link 1522b43a-998b-be25-ad31-e469f9ff0730 "Problem Set 3: Exploratory Data Analysis and Significance Testing (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 No supplemental materials
@@ -49,10 +53,10 @@ No supplemental materials
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 4: Amazon Mechanical Turk (PDF)]({{< baseurl >}}/resources/mit9_59s17_pset4)
+{{% resource_link b1803dc5-2a8f-8848-f4aa-dcdba3ab7179 "Problem Set 4: Amazon Mechanical Turk (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Data for Problem Set 4: Amazon Mechanical Turk (CSV)]({{< baseurl >}}/resources/pset4_particle_shift_data)
+{{% resource_link be623ee7-0982-603a-7384-ab364cfb8495 "Data for Problem Set 4: Amazon Mechanical Turk (CSV)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -2,6 +2,7 @@
 content_type: resource
 description: First pset for 9.59J/24.905J S17
 file: /courses/9-59j-lab-in-psycholinguistics-spring-2017/d3a4c74276283ce1ecd059287a7e7271_MIT9_59S17_pset1.pdf
+file_size: 159398
 file_type: application/pdf
 learning_resource_types:
 - Assignments

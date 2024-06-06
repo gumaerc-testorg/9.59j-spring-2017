@@ -2,6 +2,7 @@
 content_type: resource
 description: Data for problem set 2 in 9.59 S17
 file: /courses/9-59j-lab-in-psycholinguistics-spring-2017/58332d3c2714ed22bb988c37707f3485_pset2_data2.csv
+file_size: 281676
 file_type: text/comma-separated-values
 learning_resource_types:
 - Assignments

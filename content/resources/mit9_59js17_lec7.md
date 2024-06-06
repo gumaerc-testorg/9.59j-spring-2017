@@ -2,6 +2,7 @@
 content_type: resource
 description: 9.59J lecture S17
 file: /courses/9-59j-lab-in-psycholinguistics-spring-2017/dcda5c4f9f915db6a5eeb6f85cef0415_MIT9_59jS17_lec7.pdf
+file_size: 543239
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Third problem set for 9.59J/24.905J S17
 file: /courses/9-59j-lab-in-psycholinguistics-spring-2017/1522b43a998bbe25ad31e469f9ff0730_MIT9_59S17_pset3.pdf
+file_size: 134809
 file_type: application/pdf
 learning_resource_types:
 - Assignments

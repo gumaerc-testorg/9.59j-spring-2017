@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Data for problem set 4 in 9.59 S17
-file: /courses/9-59j-lab-in-psycholinguistics-spring-2017/be623ee70982603a7384ab364cfb8495_pset4_particle_shift_data.csv
+file: /ol-ocw-studio-app/courses/9-59j-lab-in-psycholinguistics-spring-2017/be623ee70982603a7384ab364cfb8495_pset4_particle_shift_data.csv
 file_size: 99225
 file_type: text/comma-separated-values
 learning_resource_types:

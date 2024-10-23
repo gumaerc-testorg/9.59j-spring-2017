@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Fourth problem set for 9.59J/24.905J S17
-file: /courses/9-59j-lab-in-psycholinguistics-spring-2017/b1803dc52a8f8848f4aadcdba3ab7179_MIT9_59S17_pset4.pdf
+file: /ol-ocw-studio-app/courses/9-59j-lab-in-psycholinguistics-spring-2017/b1803dc52a8f8848f4aadcdba3ab7179_MIT9_59S17_pset4.pdf
 file_size: 130036
 file_type: application/pdf
 learning_resource_types:

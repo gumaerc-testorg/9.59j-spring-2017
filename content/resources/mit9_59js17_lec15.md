@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 9.59J lecture S17
-file: /ol-ocw-studio-app/courses/9-59j-lab-in-psycholinguistics-spring-2017/e9188cbc3cdaa053ccb4119864041b40_MIT9_59jS17_lec15.pdf
+file: /courses/9-59j-lab-in-psycholinguistics-spring-2017/e9188cbc3cdaa053ccb4119864041b40_MIT9_59jS17_lec15.pdf
 file_size: 3569763
 file_type: application/pdf
 learning_resource_types:
